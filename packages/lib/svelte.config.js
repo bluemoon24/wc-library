@@ -5,6 +5,6 @@ export default {
   // for more information about preprocessors
   preprocess: sveltePreprocess(),
   compilerOptions: {
-    customElement: true
+    customElement: false
   }
 }
